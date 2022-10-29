@@ -10,9 +10,9 @@
 //   };
 // })
 
-// setTimeout(function () {
-//   document.getElementById('preloader').remove();
-// },5000)
+setTimeout(function () {
+  document.getElementById('preloader').remove();
+},3000)
 
 
 function incrementCounter() {
