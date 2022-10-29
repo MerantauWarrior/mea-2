@@ -730,7 +730,7 @@ input[type="checkbox"]:checked + .module-form-checkboxes-w-images__item-img{
         max-width: 73%;
     }
 }
-@media all and (min-width: 1024px) and (max-width: 1200px){
+@media all and (min-width: 1024px) and (max-width: 1366px){
     .header__inner {
         max-width: 976px;
     }
