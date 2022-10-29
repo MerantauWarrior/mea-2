@@ -12,7 +12,7 @@
 
 setTimeout(function () {
   document.getElementById('preloader').remove();
-},5000)
+},7000)
 
 
 function incrementCounter() {
